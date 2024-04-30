@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Pankaj Das</h1>
 <h3 align="center">A Data Engineer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif"
+<img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 - 🔭 I’m currently working on **Data Science Project.**
 
 - 🌱 I’m currently learning **Data Science and Machine Learning.**
